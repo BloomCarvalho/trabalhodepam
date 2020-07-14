@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pam1</string>
+    <string name="hintnomelivro">Nome do livro</string>
+    <string name="chkblido">Lido</string>
+    <string name="rdbaprovado">Aprovado</string>
+    <string name="btnenviar">Enviar</string>
+    <string name="rdbnaoaprovado">Não Aprovado</string>
+
+</resources>
